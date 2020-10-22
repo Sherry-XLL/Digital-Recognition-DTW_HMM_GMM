@@ -30,3 +30,8 @@
   Accuracy of hmm: 36/40 90%
   Accuracy of gmm: 35/40 88%
 ```
+
+## Reference Resources
+```
+  https://github.com/rocketeerli/Computer-VisionandAudio-Lab/tree/master/lab3
+```
