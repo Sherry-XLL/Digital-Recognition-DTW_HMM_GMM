@@ -4,7 +4,6 @@
 
 ## Introduction
 ```
-
   dtw.py: Dynamic Time Warping (DTW)
   hmm.py: Train hmm model
   gmm.py: Train gmm model
