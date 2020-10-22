@@ -33,5 +33,6 @@
 
 ## Reference Resources
 ```
-  https://github.com/rocketeerli/Computer-VisionandAudio-Lab/tree/master/lab3
+  preprocess.py referencing 
+  https://github.com/rocketeerli/Computer-VisionandAudio-Lab/tree/master/lab1
 ```
