@@ -1,5 +1,5 @@
 ## Digital recognition
-#### Copyright © Sherry_xll. All rights reserved.
+#### Copyright © Sherry-XLL. All rights reserved.
 10 digits recognition system based on DTW, HMM and GMM.
 
 ## Introduction
