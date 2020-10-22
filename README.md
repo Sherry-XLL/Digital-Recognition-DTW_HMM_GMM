@@ -2,6 +2,11 @@
 #### Copyright © Sherry-XLL. All rights reserved.
 10 digits recognition system based on DTW, HMM and GMM.
 
+## Experimental Environment
+```
+  macOS Catalina Version 10.15.6, Python 3.8, PyCharm 2020.2 (Professional Edition).
+```
+
 ## Introduction
 ```
   dtw.py: Dynamic Time Warping (DTW)
