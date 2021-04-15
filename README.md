@@ -9,9 +9,13 @@
 
 ## Introduction
 ```
-  dtw.py: Dynamic Time Warping (DTW)
-  hmm.py: Train hmm model
-  gmm.py: Train gmm model
+  dtw.py: Implementation of Dynamic Time Warping (DTW)
+  gmm.py: Implementation of Gaussian Mixture Model (GMM)
+  hmm.py: Implementation of Hidden Markov Model (HMM)
+
+  gmm_from_sklearn.py: Train gmm model with GaussianMixture from sklearn
+  hmm_from_hmmlearn.py: Train hmm model with hmm from hmmlearn
+
   preprocess.py: preprocess audios and split data
   processed_test_records: records with test audios
   processed_train_records: records with train audios
@@ -21,20 +25,17 @@
 
 ## Launch the script
 ```
-  Move records folder to the same directory
+  eg:
   python preprocess.py (mkdir processed records)
   python dtw.py 
-  python hmm.py 
-  python gmm.py 
 ```
 
-## Result
-```
-  Num of train: 160, num of test: 40
-  Accuracy of dtw: 30/40 78%
-  Accuracy of hmm: 36/40 90%
-  Accuracy of gmm: 35/40 88%
-```
+## Contributing
+
+Please let me know if you encounter a bug or have any suggestions by [filing an issue](https://github.com/Sherry-XLL/Digital-Recognition-DTW_HMM_GMM/issues).
+
+Thanks for insightful suggestions from [@Nian-Chen](https://github.com/Nian-Chen).
+
 
 ## Reference Resources
 ```
